@@ -127,11 +127,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     
     <!-- Testimonials -->
     <h3 class="w3-padding-24 w3-text-light-grey">My Reputation</h3>  
-    <img src="image8.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="image8.jpg" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Miss Photogenic.</span> CEO at Mighty Schools.</p>
     <p>Rachel Chumang saved us from a web disaster.</p><br>
     
-    <img src="myimage3.jpeg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="myimage3.jpeg" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Tasha</span> CEO at Company.</p>
     <p>No one is better than Rachel Chumang, she is the best.</p>
   <!-- End About Section -->
